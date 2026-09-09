@@ -1,6 +1,6 @@
-# Hack The Box Sherlock Reports
+# IncidentDossier
 
-This collection contains incident reports produced from hands-on investigations in Hack The Box Sherlock lab environments. These are educational simulations, not production incidents. Each report documents the available evidence, investigative reasoning, findings, impact, and recommended response actions.
+This collection contains incident reports produced from hands-on investigations in lab environments. These are educational simulations, not production incidents. Each report documents the available evidence, investigative reasoning, findings, impact, and recommended response actions.
 
 ## Reports
 
@@ -18,4 +18,4 @@ This collection contains incident reports produced from hands-on investigations 
 | [Trojan](trojan/) | DFIR · Malware | Memory, disk, and network forensics |
 | [Unit42](unit42/) | SOC · Threat Detection | Sysmon analysis and malicious execution |
 
-> **Spoiler notice:** These reports contain investigation findings and solutions for their respective Sherlock scenarios.
+> **Spoiler notice:** These reports contain investigation findings and solutions for their respective scenarios such as HackTheBox-Sherlocks.
